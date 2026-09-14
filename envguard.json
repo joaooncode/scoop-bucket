@@ -1,19 +1,19 @@
 {
-    "version": "0.3.7",
+    "version": "0.3.8",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/joaooncode/envguard/releases/download/v0.3.7/envguard_windows_amd64.tar.gz",
+            "url": "https://github.com/joaooncode/envguard/releases/download/v0.3.8/envguard_windows_amd64.tar.gz",
             "bin": [
                 "envguard.exe"
             ],
-            "hash": "7956a8d6830f93fc279bbcdd9d74d356dbc61d483f1864fe10d5515b39a1c913"
+            "hash": "6057b41367a4650dccc9bf4f5836029f75ae178fdf457c7b25fdbd3feb4c2bfe"
         },
         "arm64": {
-            "url": "https://github.com/joaooncode/envguard/releases/download/v0.3.7/envguard_windows_arm64.tar.gz",
+            "url": "https://github.com/joaooncode/envguard/releases/download/v0.3.8/envguard_windows_arm64.tar.gz",
             "bin": [
                 "envguard.exe"
             ],
-            "hash": "723d9e3e341e244b6c9f377392a497f374f93bc99b66e559c1f8087a726ed912"
+            "hash": "d95a6fd3da88a4527cf95354b3a6c9479237fc59ddc54603e4526211717c6b1b"
         }
     },
     "homepage": "https://github.com/joaooncode/envguard",
