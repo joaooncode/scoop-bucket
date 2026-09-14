@@ -1,0 +1,22 @@
+{
+    "version": "0.3.7",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/joaooncode/envguard/releases/download/v0.3.7/envguard_windows_amd64.tar.gz",
+            "bin": [
+                "envguard.exe"
+            ],
+            "hash": "7956a8d6830f93fc279bbcdd9d74d356dbc61d483f1864fe10d5515b39a1c913"
+        },
+        "arm64": {
+            "url": "https://github.com/joaooncode/envguard/releases/download/v0.3.7/envguard_windows_arm64.tar.gz",
+            "bin": [
+                "envguard.exe"
+            ],
+            "hash": "723d9e3e341e244b6c9f377392a497f374f93bc99b66e559c1f8087a726ed912"
+        }
+    },
+    "homepage": "https://github.com/joaooncode/envguard",
+    "license": "MIT",
+    "description": "Security-focused CLI tool to detect and prevent committed or exposed environment files in Git repositories."
+}
